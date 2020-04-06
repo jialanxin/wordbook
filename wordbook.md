@@ -24,4 +24,11 @@ adhere
 hinder
 inherent
 texture
+# 4-6
+disrupt
+arbitrary
+dose
+increment
+calibrate
+affinity
 # not add
