@@ -31,4 +31,14 @@ dose
 increment
 calibrate
 affinity
+# 4-14
+glean
+speculate
+amplify
+discrete
+recipe
+converse
+encapsulate
+intact
+necessitate
 # not add
